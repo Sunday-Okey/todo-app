@@ -1,6 +1,7 @@
-Sleep
-Clean the code
-Hello
-sleep
+master sql
+master power bi
 code fire
-eat food
+make calls
+sleep
+eat
+answer calls
