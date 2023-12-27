@@ -1,7 +1,2 @@
 master sql
-master power bi
-code fire
-make calls
 sleep
-eat
-answer calls
